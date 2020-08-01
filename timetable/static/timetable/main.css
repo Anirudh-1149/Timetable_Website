@@ -113,18 +113,12 @@ td
 {
   background-color: #e3e3e3;
 }
-
-
-.carousel-item{
-  min-height : 300px;
-  max-height : 300px;
-  width : 100%;
+.row
+{
+  right: 150px;
 }
-
-.carousel-control{
-  color: #ffffff;
-}
-
-.glyphicon-chevron-left{
-  size: 200%;
+#carousel-example-generic
+{
+  margin-right: fill;
+  margin-left: fill;
 }
